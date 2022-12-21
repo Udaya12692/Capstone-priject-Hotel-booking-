@@ -23,7 +23,6 @@ Most prepered Distrubution chanel for bookings
 Anyone is thinking to start new Hotel business can opt to city hotel over to resort hotel as they get more cutomers
 As Most customers prefer Bread & Breakfast (BB) meal , Hotels can give some attractive deal on upon choosing this BB type meal which will hepl to attract more customers
 August is the busiest month followed by july interms of number of visitors in this case hotel owner can make his team ready to give optimum service to customer and can also encash this high demand of hotel rooms to make more profit Hotel owners can give exlusive offers at low demand time to atract more number of customers to ensure his business to run steadily
-
 Most visiotors are from Portugal and other European contries so its better to hotel managment to enusre that facilities according to their requirment also can do good marketing at that contries to enhance business
 
 roomtype A is the most demanded rooms by the customer while booking, whereas room types H,G,C are generating more adr respectively Hotel management sholud try to increase room types A, to ensure no customer is missed because of unavialability of specific type of rooms. as room type H generating more revenue can give some addon facility to for H type room in order atracts more customer for this specific room type
