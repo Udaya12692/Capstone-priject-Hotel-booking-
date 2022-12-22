@@ -2,6 +2,7 @@
 - Introduction
 - Problem Statement
 - Objective
+-Project Files
 - Solution to Business Objective
 - Conclusion
 ## Introduction
@@ -18,6 +19,48 @@ This data set contains booking information for a city hotel and a resort hotel a
 - Find which country customers have highest bookings
 - Study the relation between ADR and length of stay
 - Most prepered Distrubution chanel for bookings
+## Project Files:
+Executable File: All theexecutions and data analysis is performed in Python using Google's cloud platform Colaboratory,https://colab.research.google.com/drive/1YVGuEFCNizXncczrSWPuHhItOmjocudb?usp=sharing this file contains data analysis, exploration, visualisations and conclusion.
+Data File: The repository contains the CSV file, which has hotel bookings data.
+## Approach
+1. Understanding the business case.
+2. Importing relevant Python libraries and dataset.
+3. Data inspection and cleaning.
+4. Performing Exploratory Data Analysis to identify factors govern hotel bookings.
+5. Document insights and conclusions drawn deom data analysis
+## Data Analysis:
+Data Analysis of hotel bookings is done in order to answer the business objectives. The analysis is carried our in 3 steps:
+
+## Univariate Analysis:
+In this analysis, we use the data of one variable to analyze the pattern in it.In this project, we have done analysis on:
+1. Most preferred meal type by the customers.
+2. Bookings percentage of each hotel.
+3. Most preferred distribution channel for hotel bookings.
+4. Most bookings from customer origin country.
+## Bivariate Analysis:
+In this analysis,we use the data of two variables to analyze the relationship between them. In this project,we have done analysis on:
+1. To find most preferred length of stay in each hotel.
+2. To identify which room type is in most demand and which room type generate the highest adr.
+Correlation Analysis:
+In this analysis, we have performed correlation heatmap to understand correlation on variables. Correlation analysis computes the level of change in one variable due to the change in the other. In this dataset, we have performed correlation analysis using a correlation heatmap with the variables, Data Analysis:
+Data Analysis of hotel bookings is done in order to answer the business objectives. The analysis is carried our in 3 steps:
+
+Univariate Analysis:
+In this analysis, we use the data of one variable to analyze the pattern in it.In this project, we have done analysis on:
+
+Most preferred meal type by the customers.
+Bookings percentage of each hotel.
+Most preferred distribution channel for hotel bookings.
+Bookings cancellation percentage of each hotel.
+Most bookings from customer origin country.
+Bivariate Analysis:
+In this analysis,we use the data of two variables to analyze the relationship between them. In this project,we have done analysis on:
+
+To identify which hotel generates more revenue.
+To find most preferred length of stay in each hotel.
+To identify which room type is in most demand and which room type generate the highest adr.
+Correlation Analysis:
+In this analysis, we have performed correlation heatmap to understand correlation on variables. Correlation analysis computes the level of change in one variable due to the change in the other. In this dataset, we have performed correlation analysis using a correlation heatmap with the variables, 'lead_time', 'adr', 'total_guests', 'total_stays_in_nights', 'previous_cancellations', 'booking_changes', 'days_in_waiting_list', 'required_car_parking_spaces', 'total_of_special_requests' and 'previous_bookings_not_canceled
 
 ## Solution to Business Objective
 - Anyone is thinking to start new Hotel business can opt to city hotel over to resort hotel as they get more cutomers
