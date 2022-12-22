@@ -2,7 +2,9 @@
 - Introduction
 - Problem Statement
 - Objective
--Project Files
+- Project Files
+- Approach
+- Data Analysis
 - Solution to Business Objective
 - Conclusion
 ## Introduction
@@ -41,7 +43,8 @@ In this analysis, we use the data of one variable to analyze the pattern in it.I
 In this analysis,we use the data of two variables to analyze the relationship between them. In this project,we have done analysis on:
 1. To find most preferred length of stay in each hotel.
 2. To identify which room type is in most demand and which room type generate the highest adr.
-Correlation Analysis:
+3. Study the relation between Waiting time and  Booking cancellation
+## Correlation Analysis:
 In this analysis, we have performed correlation heatmap to understand correlation on variables. Correlation analysis computes the level of change in one variable due to the change in the other. In this dataset, we have performed correlation analysis using a correlation heatmap with the variables, Data Analysis:
 Data Analysis of hotel bookings is done in order to answer the business objectives. The analysis is carried our in 3 steps:
 
