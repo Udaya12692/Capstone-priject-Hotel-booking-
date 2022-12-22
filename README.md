@@ -45,25 +45,8 @@ In this analysis,we use the data of two variables to analyze the relationship be
 2. To identify which room type is in most demand and which room type generate the highest adr.
 3. Study the relation between Waiting time and  Booking cancellation
 ## Correlation Analysis:
-In this analysis, we have performed correlation heatmap to understand correlation on variables. Correlation analysis computes the level of change in one variable due to the change in the other. In this dataset, we have performed correlation analysis using a correlation heatmap with the variables, Data Analysis:
-Data Analysis of hotel bookings is done in order to answer the business objectives. The analysis is carried our in 3 steps:
-
-Univariate Analysis:
-In this analysis, we use the data of one variable to analyze the pattern in it.In this project, we have done analysis on:
-
-Most preferred meal type by the customers.
-Bookings percentage of each hotel.
-Most preferred distribution channel for hotel bookings.
-Bookings cancellation percentage of each hotel.
-Most bookings from customer origin country.
-Bivariate Analysis:
-In this analysis,we use the data of two variables to analyze the relationship between them. In this project,we have done analysis on:
-
-To identify which hotel generates more revenue.
-To find most preferred length of stay in each hotel.
-To identify which room type is in most demand and which room type generate the highest adr.
-Correlation Analysis:
-In this analysis, we have performed correlation heatmap to understand correlation on variables. Correlation analysis computes the level of change in one variable due to the change in the other. In this dataset, we have performed correlation analysis using a correlation heatmap with the variables, 'lead_time', 'adr', 'total_guests', 'total_stays_in_nights', 'previous_cancellations', 'booking_changes', 'days_in_waiting_list', 'required_car_parking_spaces', 'total_of_special_requests' and 'previous_bookings_not_canceled
+In this analysis, we have performed correlation heatmap to understand correlation on variables. Correlation analysis computes the level of change in one variable due to the change in the other. In this dataset, we have performed correlation analysis using a correlation heatmap with the variables,
+'lead_time', 'adr', 'total_guests', 'total_stays_in_nights', 'previous_cancellations', 'booking_changes', 'days_in_waiting_list', 'required_car_parking_spaces', 'total_of_special_requests' and 'previous_bookings_not_canceled
 
 ## Solution to Business Objective
 - Anyone is thinking to start new Hotel business can opt to city hotel over to resort hotel as they get more cutomers
