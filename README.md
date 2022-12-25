@@ -64,3 +64,4 @@ In this analysis, we have performed correlation heatmap to understand correlatio
 - Most of the customers are from Portugal.
 - Most preferred stay in hotels is 3 days
 - Cancelation and confirmation frequency lies between waiting time range 0-150 days so we can conclude that cancellation has no relation with waiting time
+.
