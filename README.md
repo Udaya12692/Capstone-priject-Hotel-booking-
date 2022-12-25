@@ -22,7 +22,7 @@ This data set contains booking information for a city hotel and a resort hotel a
 - Study the relation between ADR and length of stay
 - Most prepered Distrubution chanel for bookings
 ## Project Files:
-Executable File: All theexecutions and data analysis is performed in Python using Google's cloud platform Colaboratory,https://colab.research.google.com/drive/1YVGuEFCNizXncczrSWPuHhItOmjocudb?usp=sharing this file contains data analysis, exploration, visualisations and conclusion.
+Executable File: All theexecutions and data analysis is performed in Python using Google's cloud platform Colaboratory,https://colab.research.google.com/drive/1YVGuEFCNizXncczrSWPuHhItOmjocudb?usp=sharingsharing this file contains data analysis, exploration, visualisations and conclusion.
 Data File: The repository contains the CSV file, which has hotel bookings data.
 ## Approach
 1. Understanding the business case.
@@ -64,4 +64,4 @@ In this analysis, we have performed correlation heatmap to understand correlatio
 - Most of the customers are from Portugal.
 - Most preferred stay in hotels is 3 days
 - Cancelation and confirmation frequency lies between waiting time range 0-150 days so we can conclude that cancellation has no relation with waiting time
-.
+..
