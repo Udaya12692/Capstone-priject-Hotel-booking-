@@ -24,6 +24,7 @@ This data set contains booking information for a city hotel and a resort hotel a
 ## Project Files:
 Executable File: All theexecutions and data analysis is performed in Python using Google's cloud platform Colaboratory,https://colab.research.google.com/drive/1YVGuEFCNizXncczrSWPuHhItOmjocudb?usp=sharingsharing this file contains data analysis, exploration, visualisations and conclusion.
 Data File: The repository contains the CSV file, which has hotel bookings data.
+- Video link https://drive.google.com/file/d/1JB3EGDIeKrg5HiHc7ovu9KBnl9Bc4jr6/view?usp=sharing
 ## Approach
 1. Understanding the business case.
 2. Importing relevant Python libraries and dataset.
