@@ -58,7 +58,7 @@ In this analysis, we have performed correlation heatmap to understand correlatio
 - Most preferred stay in hotels is 3 days, hotel management should introduce loyalty service, offers, tourism package in order to increase the stay of customers and to generate more revenue
 ## Conclusion
 - August and July are the busiest month in terms of hotel busniness so we can anticipate high rates of hotel rooms, where Junary is slack season we can expect lower rates for hotel rooms
-- Most of the bookings are for City Hotel compared to Resort Hotel .
+- Bookings are  more for City Hotel compared to Resort Hotel.Cty hotel makes more revenue City hotel have to manage more special request than resort hotel
 - Most customers prefer Bread & Breakfast (BB) meal
 - Most preferred distribution channel by customers is Travel Agent / Tour Oprator (TA/TO) to make hotel booking.
 - Most of the customers are from Portugal.
